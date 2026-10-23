@@ -15,7 +15,8 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 
 ## Program:
 ```
-<img width="947" height="842" alt="Screenshot 2026-10-23 084005" src="https://github.com/user-attachments/assets/c570a23f-3a9c-4fcf-897e-1235669332d1" />
+
+<img width="947" height="842" alt="Screenshot 2026-10-23 084005" src="https://github.com/user-attachments/assets/9f6354a0-0ded-43e0-8cc1-935ab9c6292b" />
 
 /*
 Program to find the solution of a matrix using Gaussian Elimination.
