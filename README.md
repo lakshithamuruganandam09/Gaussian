@@ -16,13 +16,15 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 ## Program:
 ```
 
-<img width="947" height="842" alt="Screenshot 2026-10-23 084005" src="https://github.com/user-attachments/assets/9f6354a0-0ded-43e0-8cc1-935ab9c6292b" />
+
 
 /*
 Program to find the solution of a matrix using Gaussian Elimination.
 Developed by: Lakshitha M
 RegisterNumber: 26018363
 */
+<img width="947" height="842" alt="Screenshot 2026-10-23 084005" src="https://github.com/user-attachments/assets/308cf5c8-e797-4ba4-ba47-aed8afeeebe9" />
+
 ```
 
 ## Output:
